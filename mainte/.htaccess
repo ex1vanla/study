@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Please input ID and password"
+AuthUserFile "D:\PHPStudy\mainte\.htpasswd"
+require valid-user
